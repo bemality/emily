@@ -6,7 +6,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-      background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./https://github.com/bemality/emily/blob/main/ChatGPT%20Image%20Jun%2027%2C%202025%2C%2010_34_02%20AM.png);
+    background:url(./ChatGPT\ Image\ Jun\ 27\,\ 2025\,\ 10_34_02\ AM.png);
     background-position: center;
     background-size: cover;
     position: relative;    
@@ -31,7 +31,7 @@ nav img{
     position: relative;
 }
 .nav-links ul li a{
-    color: #fff;
+    color:blue;
     text-decoration: none;
     font-size: 13px;
 }
@@ -60,10 +60,10 @@ nav img{
 .text-box h1{
    margin: 10px 040px;
    font-size: 44px;
-   color: #fff; 
+   color:#fff; 
 }
 .text-box p{
-  color: #fff  
+  color: #fff;  
 }
 .hero-btn{
     display:inline-block ;
